@@ -41,7 +41,7 @@ class MainClass:
 
 if __name__ == "__main__":
     main_class = MainClass()
-    main_class.login("kushalsharmatester@gmail.com", "16161326")
+    main_class.login("kushalsharmatester@gmail.com", "Npav@321")
     main_class.navigate()
     main_class.key_details()
     main_class.logout()
