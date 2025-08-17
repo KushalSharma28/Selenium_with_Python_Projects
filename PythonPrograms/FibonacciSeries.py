@@ -38,7 +38,5 @@ def fibonacci_series():
         b = c
     print()  # Add a newline at the end for cleaner output
 
-
 if __name__ == "__main__":
     fibonacci_series()
-

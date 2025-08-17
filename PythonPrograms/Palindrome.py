@@ -1,10 +1,4 @@
 def check_palindrome():
-    """
-    Checks if a user-entered string is a palindrome.
-    A palindrome is a word, phrase, number, or other sequence of characters
-    which reads the same backward as forward, e.g., "madam" or "racecar".
-    The check is case-insensitive.
-    """
     # Prompt the user to enter a string
     original = input("Enter a string to check if it is a palindrome: ")
 
